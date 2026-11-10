@@ -1,6 +1,6 @@
 cask "markwise" do
-  version "1.0.0"
-  sha256 "d36cfe776028fa1bd3f64340ccb17f8a4af54178437e61b02846d11a7e63bbc3"
+  version "1.0.1"
+  sha256 "35f096c2feb2af4467758e3e04f2abfa496bb2b573b92bd8408222b37d182940"
 
   url "https://github.com/reaktif-io/markwise-mac/releases/download/v#{version}/Markwise-#{version}.zip"
   name "Markwise"
